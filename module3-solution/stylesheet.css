@@ -1,0 +1,12 @@
+section{
+    background-color: gray;
+}
+@media (min-width: 577px) {
+    .visible-xs{
+        display: none;
+    }
+
+    #navbarNavAltMarkup{
+        display: none !important;
+    }
+}
